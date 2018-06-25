@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Raleway;
+}
+
+header{
+    background: #2b303b;
+    height: 50px;
+    width:100%;
+    display: flex;
+    color:#fff;
+}
+
+.subheader{
+    margin: 20px;
+    text-align: center;
+}
