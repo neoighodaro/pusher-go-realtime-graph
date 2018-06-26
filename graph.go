@@ -12,10 +12,10 @@ import (
 
 // We register the Pusher client
 var client = pusher.Client{
-	AppId:   "527681",
-	Key:     "23919cee3b1111731271",
-	Secret:  "2f8af21b174ac69b928f",
-	Cluster: "eu",
+	AppId:   "PUSHER_APP_ID",
+	Key:     "PUSHER_APP_KEY",
+	Secret:  "PUSHER_APP_SECRET",
+	Cluster: "PUSHER_APP_CLUSTER",
 	Secure:  true,
 }
 
