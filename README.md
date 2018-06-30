@@ -2,7 +2,7 @@
 
 This is a demo on how to build a realtime graph using Go and Pusher.
 
-[View tutorial](https://blog.pusher.com/author/neo/)
+[View tutorial](https://pusher.com/tutorials/live-graph-go)
 
 ## Prerequisites
 
